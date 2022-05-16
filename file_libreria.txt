@@ -1,2 +1,5 @@
 mi trovo su branch test_libreria
 nuova versione libreria test 02
+
+Creiamo un conflitto:
+modificato in master
