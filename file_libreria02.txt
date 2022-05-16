@@ -1,1 +1,3 @@
 file02 libreria test
+
+nuova versione libreria 2
